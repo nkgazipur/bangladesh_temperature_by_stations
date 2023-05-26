@@ -1,0 +1,8 @@
+body {
+  margin: 0;
+  overflow: hidden;
+}
+.station-input {
+  text-align: center;
+  margin: 15px;
+}
